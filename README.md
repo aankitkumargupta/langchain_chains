@@ -1,6 +1,6 @@
 # LangChain Demo: Chain Types Using HuggingFace Models
 
-This repository contains four examples demonstrating how to build **LangChain chains** with Hugging Face language models like [`google/gemma-2-2b-it`](https://huggingface.co/google/gemma-2-2b-it). Each script introduces a different chaining strategy—**simple**, **sequential**, **parallel**, and **conditional**.
+This repository contains four examples demonstrating how to build **LangChain chains** with Hugging Face language models like [`google/gemma-2-2b-it`](https://huggingface.co/google/gemma-2-2b-it). Each script introduces a different chaining strategy **simple**, **sequential**, **parallel**, and **conditional**.
 
 These patterns are useful when building LLM-powered tools that need structured responses, branching logic, or modular pipelines.
 
